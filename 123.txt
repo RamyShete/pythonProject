@@ -1,0 +1,9 @@
+127.0.0.1
+2222
+User
+Password
+D:\3\test
+E:\Download\for us
+root
+ff33039f
+sftp
